@@ -1,6 +1,6 @@
 
 node {    	
-	stage('Run JOB1') {	
+	stage('description Run JOB1') {	
 	    build job: '../../JOB1'	
 	}
 	stage('Run JOB2') {
